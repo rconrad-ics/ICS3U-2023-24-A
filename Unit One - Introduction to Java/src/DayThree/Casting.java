@@ -1,7 +1,6 @@
-package DayFour;
+package DayThree;
 
-public class Lesson4 {
-
+public class Casting {
     
     public static void main(String{} args){
         int mark1 = 84, mark2 = 91, mark3 = 97;
@@ -19,4 +18,6 @@ public class Lesson4 {
 
         //cast int -> double we get more precision (widening conversion)
     }
+}
+    
 }
