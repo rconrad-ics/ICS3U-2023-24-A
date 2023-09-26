@@ -1,7 +1,7 @@
 package DayThree;
 
 public class Casting {
-    
+
     public static void main(String{} args){
         int mark1 = 84, mark2 = 91, mark3 = 97;
         int NumTests = 3;
@@ -20,4 +20,4 @@ public class Casting {
     }
 }
     
-}
+
