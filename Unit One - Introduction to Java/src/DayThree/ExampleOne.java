@@ -1,8 +1,9 @@
-package DayThree;
 
+package DayThree;
+import java.util.Scanner;
 public class ExampleOne {
     public static void main(String[] args){
-      int money = 1595;
+      /*int money = 1595;
       int toonie = 200;
       int loonie = 100;
       int quarter = 25;
@@ -32,7 +33,11 @@ public class ExampleOne {
       y = money/nickel;
       System.out.println(x); 
       System.out.println("Nickel: " + y);
-
+      */
+      Scanner in = new Scanner(System.in);
+      System.out.print("Enter a num");
+      double width = in.nextDouble();
+      System.out.println(width);
     }
     
 }
